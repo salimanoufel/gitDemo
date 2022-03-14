@@ -3,7 +3,7 @@ class Animal{
        return"hello animal";
     }
     public static String getCatGreeting(){
-        return"Meow";
+        return"Meow!!";
      }
     public static void main(String[] args ){
 
