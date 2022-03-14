@@ -1,12 +1,6 @@
 class Animal{
-    public static String getDefaultGreeting(){
-       return"hello animal";
-    }
-    public static String getBirdGreeting(){
-        return"Tweet";
-     }
-    public static void main(String[] args ){
-
-        System.out.println(getBirdGreeting());
+    public static void main (String[] args)
+    {
+        
     }
 }
