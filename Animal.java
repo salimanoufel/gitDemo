@@ -1,11 +1,11 @@
 class Animal{
+
     public static String getDefaultGreeting(){
-       return"hello animal";
+        return "Hello Animal";
     }
-    public static String getCatGreeting(){
-        return"Meow!!";
-     }
-    
+    public static String getDBirdGreeting(){
+        return "Trr";
+    }
     public static void main (String[] args)
     {
         System.out.println(getDefaultGreeting());
